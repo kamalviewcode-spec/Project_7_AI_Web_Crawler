@@ -1,0 +1,47 @@
+accounts.db
+
+# Scraped data files — auto-generated at runtime, different per user
+scraped_data_*.txt
+.env
+__pycache__/
+*.pyc
+.venv/
+pyproject.toml
+uv.lock
+LinkedIn.md
+linkedin.md
+memory/kamal.db
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+*.egg
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+package-lock.json
+
+# Sandbox output
+sandbox/
+
+requirements.txt
+Common.txt
